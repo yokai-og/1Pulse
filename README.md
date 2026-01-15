@@ -38,15 +38,6 @@ Testing: React Testing Library
 
 Build Tool: Create React App
 
-📂 Project Structure
-1Pulse-main/
-├── public/            # Static assets & 3D models
-├── src/
-│   ├── components/    # UI components & layouts
-│   ├── App.js         # Main application logic
-│   └── index.js       # Entry point
-├── package.json       # Dependencies & scripts
-└── README.md
 
 ▶️ Getting Started
 Prerequisites
